@@ -1,5 +1,5 @@
 #include <iostream>
-#include "БъЭЗ.h"
+#include "own.h"
 #include<stdio.h>
 
 using namespace std;
